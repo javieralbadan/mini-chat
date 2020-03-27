@@ -1,14 +1,9 @@
-.idea
 node_modules
 .nuxt
 env.local.js
 ecosystem.config.js
 npm-debug.log
 .vscode/*
-client/app.html
-merqueo-web-front.iml
 dist
 yarn.lock
-.sentryclirc
 .DS_Store
-coverage
